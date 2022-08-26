@@ -1,0 +1,90 @@
+
+.navbar{
+    height: 130px;
+}
+.navbarlogo{
+    padding-left: 40px;
+}
+.nav{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.nav-link{
+    color: rgb(131, 131, 131);
+}
+#sizeslides{
+    width: 200px;
+    height: 400px;
+}
+.d-block{
+    height: 670px;
+}
+.carousel-caption{
+    font-size: 60px;   
+}
+.section2head{
+    display: flex;
+    justify-content: center;
+}
+.section2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.section2p{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: fit-content;
+}
+.section2 p{
+    text-align: center;
+}
+.section2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.join{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid #BF9E60;
+    padding-top: 40px;
+}
+.join div h1{
+    display: flex;
+    justify-content: center;
+}
+.input-group{
+    width: 35%;
+}
+footer{
+border-top: 2px solid #BF9E60;
+padding-top: 40px;
+padding-bottom: 50px;
+margin-top: 50px;
+display: flex;
+justify-content: space-around;
+}
+.logos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-top: 3px solid black;
+    padding-top: 10px;
+}
+.logo1{
+    width: 40px;
+    height: 40px;
+}

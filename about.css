@@ -1,0 +1,99 @@
+.about{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;   
+    align-items: center;
+    text-align: center;
+} 
+.about1{
+    padding-top: 40px;
+    padding-bottom: 40px;
+} 
+.navbar{
+    height: 130px;
+}
+.navbarlogo{
+    padding-left: 40px;
+}
+.nav{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.nav-link{
+    color: rgb(131, 131, 131);
+}
+.visit{
+    background-image: url(slide1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.brands{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #BF9E60 ;
+}
+.visit1{
+    color: white;
+    font-size: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.clientslogo{
+    background-color: #BF9E60;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:80px;
+    padding-bottom: 30px;
+
+}
+.clientslogo img{
+    width: 180px;
+}
+.clientslogo :nth-child(4){
+    height: 130px;
+}
+.clientslogo :nth-child(3){
+    height: 130px;
+}
+.clientslogo :nth-child(2){
+    height: 130px;
+}
+footer{
+    border-top: 2px solid #BF9E60;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.logos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-top: 3px solid black;
+    padding-top: 10px;
+}
+.logo1{
+    width: 40px;
+    height: 40px;
+}

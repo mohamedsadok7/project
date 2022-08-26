@@ -1,0 +1,88 @@
+.navbar{
+    height: 130px;
+}
+.navbarlogo{
+    padding-left: 40px;
+}
+.nav{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.nav-link{
+    color: rgb(131, 131, 131);
+}
+.logos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-top: 3px solid black;
+    padding-top: 10px;
+}
+.logo1{
+    width: 40px;
+    height: 40px;
+}
+.carousel-caption{
+    font-size: 100px;
+}
+.caption{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.catalogue img{
+    width: 300px;
+    height: 400px;
+}
+.card p{
+    font-size: 20PX;
+
+}
+.card img{
+    width: 300px;
+    height: 380px;
+
+}
+.card{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.cardrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer{
+    border-top: 2px solid #BF9E60;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    }
+ .logos{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        border-top: 3px solid black;
+        padding-top: 10px;
+    }
+    .logo1{
+        width: 40px;
+        height: 40px;
+    }
+    
